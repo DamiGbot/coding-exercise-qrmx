@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Test coverage
+coverage/
+
+# IDE - VS Code
+.vscode/
+
+# IDE - JetBrains
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

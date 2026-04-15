@@ -1,0 +1,20 @@
+{
+  "name": "cinema-tickets-typescript",
+  "description": "This is a coding exercise which will allow me to demonstrate how I code and my approach to a given problem.",
+  "version": "1.0.1",
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "@vitest/coverage-v8": "^3.1.1",
+    "typescript": "^5.8.3",
+    "vitest": "^3.1.1"
+  }
+}
